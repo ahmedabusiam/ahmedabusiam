@@ -36,5 +36,5 @@
 
 ## GitHub Stats📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabusiam&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabusiam&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=800)
 
