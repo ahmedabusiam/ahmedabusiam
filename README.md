@@ -6,5 +6,33 @@
 •	Fun fact: I enjoy turning complex data sets into intelligent models that can predict trends and support decision-making
 
 ---
-***
-___
+ط
+## Socials🌐
+
+[Email Me](mailto:ahmedsyam0595103384@gmail.com)
+[Instagram](https://www.instagram.com/a7med.abu.siam)
+[Telegram](https://t.me/a7medsyam)
+
+---
+
+## Technical skills 
+
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[Matplotlib](https://img.shields.io/badge/Matplotlib-F9761E?style=for-the-badge&logo=matplotlib&logoColor=white)
+[Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## GitHub Stats📊
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
