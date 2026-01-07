@@ -4,3 +4,8 @@
 •	I am currently learning deep learning, time series forecasting, and applying artificial intelligence in the financial and business fields
 •	Ask me about data analysis, machine learning, AI trading systems, and turning raw data into insights
 •	Fun fact: I enjoy turning complex data sets into intelligent models that can predict trends and support decision-making
+
+---
+***
+___
+
