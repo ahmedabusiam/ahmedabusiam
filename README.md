@@ -36,5 +36,6 @@
 
 ## GitHub Stats📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabusiam&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&layout=compact&theme=radical&card_width=800)
 
