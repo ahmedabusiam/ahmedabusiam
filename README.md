@@ -31,13 +31,3 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
----
-## GitHub Stats📊
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=400" width="400" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&layout=compact&theme=radical&hide_border=false&card_width=400" width="400" />
-
-</div>
