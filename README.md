@@ -34,11 +34,10 @@
 
 ---
 ## GitHub Stats📊
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide_title=false&card_width=400" width="400" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&layout=compact&theme=radical&hide_border=false&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed&layout=compact&theme=radical&hide_border=false&card_width=400" width="400" />
 
 </div>
